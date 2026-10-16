@@ -1,0 +1,16 @@
+/* Text Colors (Syntax Highlighting) */
+.purple { color: #c678dd; } /* Keywords: const, export, default */
+.red    { color: #e06c75; } /* Variables and properties: lucas, nome, cargo */
+.blue   { color: #61afef; } /* Types: Perfil, boolean, number */
+.yellow { color: #e5c07b; } /* Strings: "Lucas Ferreira", "São Paulo, Brasil" */
+.orange { color: #d19a66; } /* Numbers: 7 */
+.cyan   { color: #56b6c2; } /* Booleans: true, false */
+.gray   { color: #5c6370; } /* Comments: // Oi! Sou desenvolvedor... */
+.white  { color: #abb2bf; } /* Operators and punctuation: =, :, ;, {, } */
+
+/* Background Colors */
+.bg-dark      { background-color: #1e1e24; } /* Main editor dark background */
+.bg-line      { background-color: #2b2b36; } /* Active/selected line highlight */
+.bg-selection { background-color: #1c4545; } /* Text selection highlight (e.g., "lucas") */
+
+
